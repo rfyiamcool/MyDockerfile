@@ -1,6 +1,4 @@
-edis Dockerfile
-#
-# https://github.com/dockerfile/redis
+# redis Dockerfile
 
 # Pull base image.
 FROM dockerfile/ubuntu
