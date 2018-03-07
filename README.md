@@ -2,6 +2,10 @@
 
 平时用的Dockerfile
 
-* supervisord
 * redis
 * ssdb
+* mysql
+* mongodb
+* lnmp
+* openresty
+* supervisord
