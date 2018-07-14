@@ -1,7 +1,10 @@
 # MyDockerfile
 
-平时用的Dockerfile
+平时用的Dockerfile, 供应快速测试.
 
+### Support
+
+* shadowsock
 * redis
 * ssdb
 * mysql
@@ -9,3 +12,5 @@
 * lnmp
 * openresty
 * supervisord
+* zookeeper
+* etcd
